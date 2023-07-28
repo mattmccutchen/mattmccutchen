@@ -12,7 +12,7 @@ projects](https://mattmccutchen.net/#projects) on my personal web site.
 For security reasons, I use separate GitHub accounts for work related to some of my jobs:
 
 - [@mattmccutchen-amazon](https://github.com/mattmccutchen-amazon): Amazon
-  (active)
+  (former)
 
 - [@mattmccutchen-cci](https://github.com/mattmccutchen-cci): Correct
   Computation (former)
